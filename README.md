@@ -11,4 +11,4 @@ The sources and methods are explained, referenced, and cited in the thesis docum
 
 ## Diffusion
 
-http://htmlpreview.github.io/?https://github.com/partigabor/phd-test/blob/main/diffusion_en.html
+http://htmlpreview.github.io/?https://github.com/partigabor/phd-thesis-viz/blob/main/diffusion_en.html
