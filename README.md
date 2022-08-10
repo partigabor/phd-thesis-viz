@@ -9,6 +9,10 @@ Visualizations for my PhD thesis at The Hong Kong Polytechnic University.
 
 [Explore](https://htmlpreview.github.io/?https://github.com/partigabor/phd-thesis-viz/blob/main/diffusion_en.html) the diffusion of spice terminology in English, focusing on loanwords and *Wanderwörter*.
 
+[Explore](https://htmlpreview.github.io/?https://github.com/partigabor/phd-thesis-viz/blob/main/diffusion_ar.html) the diffusion of spice terminology in Arabic, focusing on loanwords and *Wanderwörter*.
+
+[Explore](https://htmlpreview.github.io/?https://github.com/partigabor/phd-thesis-viz/blob/main/diffusion_zh.html) the diffusion of spice terminology in Chinese, focusing on loanwords and *Wanderwörter*.
+
 
 
 
