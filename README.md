@@ -5,7 +5,13 @@ Visualizations for my PhD thesis at The Hong Kong Polytechnic University.
 
 # Visualizations hosted on this repository:
 
-## Chapter 5. Diffusion
+## Chapter 4. The Spices
+
+Fig. The distribution of *cinnamon*.
+
+[Explore](https://htmlpreview.github.io/?https://github.com/partigabor/phd-thesis-viz/blob/main/distribution_cinnamon.html) the distribution of words for cinnamon in the world's languages.
+
+## Chapter 5. The Diffusion of Spices
 
 [Explore](https://htmlpreview.github.io/?https://github.com/partigabor/phd-thesis-viz/blob/main/diffusion_en.html) the diffusion of spice terminology in **English**, focusing on loanwords and *Wanderwörter*.
 
