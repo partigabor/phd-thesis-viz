@@ -15,15 +15,15 @@ Fig. 4.13 The distribution of *cinnamon*.
 
 ### Spatial Diffusion
 
-[Explore](https://htmlpreview.github.io/?https://github.com/partigabor/phd-thesis-viz/blob/main/diffusion_en.html) the diffusion of spice terminology in **English**, focusing on loanwords and *Wanderwörter*.
+* [Explore](https://htmlpreview.github.io/?https://github.com/partigabor/phd-thesis-viz/blob/main/diffusion_en.html) the diffusion of spice terminology in **English**, focusing on loanwords and *Wanderwörter*.
 
-[Explore](https://htmlpreview.github.io/?https://github.com/partigabor/phd-thesis-viz/blob/main/diffusion_ar.html) the diffusion of spice terminology in **Arabic**, focusing on loanwords and *Wanderwörter*.
+* [Explore](https://htmlpreview.github.io/?https://github.com/partigabor/phd-thesis-viz/blob/main/diffusion_ar.html) the diffusion of spice terminology in **Arabic**, focusing on loanwords and *Wanderwörter*.
 
-[Explore](https://htmlpreview.github.io/?https://github.com/partigabor/phd-thesis-viz/blob/main/diffusion_zh.html) the diffusion of spice terminology in **Chinese**, focusing on loanwords and *Wanderwörter*.
+* [Explore](https://htmlpreview.github.io/?https://github.com/partigabor/phd-thesis-viz/blob/main/diffusion_zh.html) the diffusion of spice terminology in **Chinese**, focusing on loanwords and *Wanderwörter*.
 
 ### Temporal Diffusion
 
-[Explore](https://htmlpreview.github.io/?https://github.com/partigabor/phd-thesis-viz/blob/main/attestation_and_borrowing_compact.html) the timeline of attestations of spice terms in a trilingual setting, marking borrowings.
+* [Explore](https://htmlpreview.github.io/?https://github.com/partigabor/phd-thesis-viz/blob/main/attestation_and_borrowing_compact.html) the timeline of attestations of spice terms in a trilingual setting, marking borrowings.
 
 
 #### Disclaimer
