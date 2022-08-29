@@ -13,17 +13,29 @@ Fig. 4.13 The distribution of *cinnamon*.
 
 ## Chapter 5. The Diffusion of Spices
 
+Fig. 5.4 The geographical origins of spices.
+
+* [Explore](https://htmlpreview.github.io/?https://github.com/partigabor/phd-thesis-viz/blob/main/spices_map.html) the approximate geographical origins of the spices in the thesis; size represents their spreadability index.
+
 ### Spatial Diffusion
+
+Fig. 5.6
 
 * [Explore](https://htmlpreview.github.io/?https://github.com/partigabor/phd-thesis-viz/blob/main/diffusion_en.html) the diffusion of spice terminology in **English**, focusing on loanwords and *Wanderwörter*.
 
+Fig. 5.7
+
 * [Explore](https://htmlpreview.github.io/?https://github.com/partigabor/phd-thesis-viz/blob/main/diffusion_ar.html) the diffusion of spice terminology in **Arabic**, focusing on loanwords and *Wanderwörter*.
+
+Fig. 5.8
 
 * [Explore](https://htmlpreview.github.io/?https://github.com/partigabor/phd-thesis-viz/blob/main/diffusion_zh.html) the diffusion of spice terminology in **Chinese**, focusing on loanwords and *Wanderwörter*.
 
 ### Temporal Diffusion
 
-* [Explore](https://htmlpreview.github.io/?https://github.com/partigabor/phd-thesis-viz/blob/main/attestation_and_borrowing_compact.html) the timeline of attestations of spice terms in a trilingual setting, marking borrowings.
+Fig. 5.12 Comparative timelines for attested spice terms.
+
+* [Explore](https://htmlpreview.github.io/?https://github.com/partigabor/phd-thesis-viz/blob/main/attestation_and_borrowing_compact.html) the timeline of attestations in a trilingual setting, indicating borrowings.
 
 
 #### Disclaimer
