@@ -1,23 +1,22 @@
-# phd-thesis-viz
-Visualizations for my PhD thesis at The Hong Kong Polytechnic University. 
+# Visualizations for the PhD thesis of Gábor Parti, prepared at The Hong Kong Polytechnic University during 2022.
 
-**⚓ This project is still under work, hence all content here is tentative! ⚓**
+**⚓ This project is still under review and revision, all content here is tentative! ⚓**
 
-# Visualizations hosted on this repository:
+## Visualizations hosted on this repository:
 
-## Chapter 4. The Spices
+### Chapter 4. The Spices
 
 Fig. 4.13 The distribution of *cinnamon*.
 
 * [Explore](https://htmlpreview.github.io/?https://github.com/partigabor/phd-thesis-viz/blob/main/distribution_cinnamon.html) the distribution of words for cinnamon in the world's languages.
 
-## Chapter 5. The Diffusion of Spices
+### Chapter 5. The Diffusion of Spices
 
 Fig. 5.4 The geographical origins of spices.
 
 * [Explore](https://htmlpreview.github.io/?https://github.com/partigabor/phd-thesis-viz/blob/main/spices_map.html) the approximate geographical origins of the spices in the thesis; size represents their spreadability index.
 
-### Spatial Diffusion
+#### Spatial Diffusion
 
 Fig. 5.6
 
@@ -31,7 +30,7 @@ Fig. 5.8
 
 * [Explore](https://htmlpreview.github.io/?https://github.com/partigabor/phd-thesis-viz/blob/main/diffusion_zh.html) the diffusion of spice terminology in **Chinese**, focusing on loanwords and *Wanderwörter*.
 
-### Temporal Diffusion
+#### Temporal Diffusion
 
 Fig. 5.12 Comparative timelines for attested spice terms.
 
@@ -40,7 +39,6 @@ Fig. 5.12 Comparative timelines for attested spice terms.
 
 #### Disclaimer
 
-This repository hosts the data and figures accompanying the Ph.D. thesis of Gábor Parti, which is currently being prepared at The Hong Kong Polytechnic University.
-The sources and methods are explained, referenced, and cited in the thesis document. The repository in its present state is intended for review purposes only, aligning with an initial submission of the dissertation. Please do not download or share any content hosted here, since these datasets and figures constitute a first draft, and not a final version. I plan to release the data after my viva, and makes this project open once it has been reviewed and revised.
+This repository hosts the data and figures accompanying the Ph.D. thesis of Gábor Parti, which is currently being prepared at The Hong Kong Polytechnic University. The sources and methods are explained, referenced, and cited in the thesis document. This repository in its present state is intended for review purposes only, aligning with an initial submission of the dissertation. Please do not download or share any content hosted here yet, since these datasets and figures constitute a first draft, and not a final version. I plan to release the data after my oral defense, and make this project public once it has been finalized and published.
 
 <!-- Comments and suggestions are welcome at gabor dot parti at connect dot polyu dot hk. -->
