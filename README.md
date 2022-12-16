@@ -1,8 +1,8 @@
-# Visualizations for the PhD thesis of Gábor Parti, prepared at The Hong Kong Polytechnic University during 2022.
-
 **⚓ This project is still under review and revision, all content here is tentative! ⚓**
 
-## Visualizations hosted on this repository:
+# Visualizations for the PhD thesis of Gábor Parti
+
+## Visualizations and maps hosted on this repository:
 
 ### Chapter 4. The Spices
 
@@ -39,6 +39,6 @@ Fig. 5.12 Comparative timelines for attested spice terms.
 
 #### Disclaimer
 
-This repository hosts the data and figures accompanying the Ph.D. thesis of Gábor Parti, which is currently being prepared at The Hong Kong Polytechnic University. The sources and methods are explained, referenced, and cited in the thesis document. This repository in its present state is intended for review purposes only, aligning with an initial submission of the dissertation. Please do not download or share any content hosted here yet, since these datasets and figures constitute a first draft, and not a final version. I plan to release the data after my oral defense, and make this project public once it has been finalized and published.
+This repository hosts the data and figures accompanying the Ph.D. thesis of Gábor Parti, which is currently (2022) being prepared at The Hong Kong Polytechnic University. The sources and methods are explained, referenced, and cited in the thesis document. This repository in its present state is intended for review purposes only, aligning with an initial submission of the dissertation. Please do not download or share any content hosted here yet, since these datasets and figures constitute a first draft, and not a final version. I plan to release the data after my oral defense, and make this project public once it has been finalized and published.
 
 <!-- Comments and suggestions are welcome at gabor dot parti at connect dot polyu dot hk. -->
