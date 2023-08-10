@@ -1,4 +1,4 @@
-**⚓ This project is still under review and revision, all content here is tentative! ⚓**
+**⚓ This project is now available in full at [https://partigabor.github.io/spice/](https://partigabor.github.io/spice/)! ⚓**
 
 # Visualizations for the PhD thesis of Gábor Parti
 
